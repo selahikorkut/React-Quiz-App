@@ -1,5 +1,6 @@
 # React-Quiz-App
-React.js "Who wants to be a millionaire" game app using react hooks. How to create a trivia quiz app using React
+React.js "Who wants to be a millionaire" game app using react hooks. How to create a trivia quiz app using React.
+[live demo](https://scintillating-capybara-5caf42.netlify.app/)
 
 # Getting Started with Create React App
 
